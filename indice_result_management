@@ -26,7 +26,7 @@ num=6
 NR<-100
 studys<-c("study1b","study2","study3",'supp')
 
-wd0<-"F:/舒方/current/硕士毕设/模拟研究"   #D:
+wd0<-"F:/current/硕士毕设/模拟研究"   #D:
 wd<- paste0(wd0,"/",paste0(studys[study]))  #,'_',num
 
 resultwd<-paste(wd0,"AllResults",sep="/")
