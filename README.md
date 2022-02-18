@@ -1,2 +1,2 @@
-# openxlsx
-Useful codes for automatically writing excels.
+# results
+Useful codes for automatically analysing and writing results into excels.
